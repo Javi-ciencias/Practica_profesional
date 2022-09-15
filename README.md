@@ -1,4 +1,5 @@
 # Uso de sillas de ruedas por personas adultas mayores que viven en la comunidad: perfil sociodemográfico, clínico y de salud, prevalencia y factores de riesgo.
+# (Trabajo en pregreso, NO utilizar como trabajo completo)
 
 ## Objetivo del Proyecto:
 El objetivo del proyecto es proponer un método estadístico para predecir el desgaste en las sillas de ruedas a partir de un perfil sociodemográfico, clínico y de salud de las personas adultas mayores usuarias de sillas de ruedas en la Ciudad de México.
@@ -7,7 +8,7 @@ El objetivo del proyecto es proponer un método estadístico para predecir el de
 ● Apoyar en la realización de la prueba piloto dónde se evaluarán 40 participantes en el Laboratorio de Investigación en Evaluación Funcional del Adulto Mayor perteneciente al Instituto Nacional de Geriatría.
 
 ● Realizar un análisis descriptivo sobre las características sociodemográficas, clínicas y de salud de los usuarios de sillas de ruedas utilizando la información obtenida de la evaluación de participantes y en aquella contenida en las bases de datos nacionales.
-          
+
 ● Realizar el análisis inferencial entre los factores de riesgo y los principales desenlaces adversos que sufren las personas mayores usuarias de sillas de ruedas.
 
 ## Menciona el Impacto social del proyecto:
