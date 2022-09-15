@@ -5,6 +5,7 @@ El objetivo del proyecto es proponer un método estadístico para predecir el de
 
 ## Objetivos especificos:
 ● Apoyar en la realización de la prueba piloto dónde se evaluarán 40 participantes en el Laboratorio de Investigación en Evaluación Funcional del Adulto Mayor perteneciente al Instituto Nacional de Geriatría.
+
 ● Realizar un análisis descriptivo sobre las características sociodemográficas, clínicas y de salud de los usuarios de sillas de ruedas utilizando la información obtenida de la evaluación de participantes y en aquella contenida en las bases de datos nacionales.
           
 ● Realizar el análisis inferencial entre los factores de riesgo y los principales desenlaces adversos que sufren las personas mayores usuarias de sillas de ruedas.
