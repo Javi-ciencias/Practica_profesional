@@ -21,9 +21,15 @@ de sillas de ruedas usando índices y otros métodos que nos permitan reducir la
 
 ## Referencias:
 ● Borg, J., Lindström, A., & Larsson, S. (2011). Assistive technology in developing countries. Prosthetics & Orthotics International, 35(1). https://doi.org/10.1177/0309364610389351
+
 ● ENASEM. (n.d.). Estudio Nacional de Salud y Envejecimiento en México. Retrieved June 9, 2021, from http://www.enasem.org/index_Esp.aspx
+
 ● ENH. (2017). Encuesta Nacional de los Hogares. https://www.inegi.org.mx/programas/enh/2017/#Tabulados
+
 ● INEGI. (2020). Censo de Población y Vivienda 2020. https://www.inegi.org.mx/temas/discapacidad/#Tabulados
+
 ● Mhatre, A. A., Lachell, S., & Pearlman, J. L. (2020). Development, reliability, and piloting of a wheelchair caster failure inspection tool (C-FIT). Disability and Rehabilitation: Assistive Technology, 15(2). https://doi.org/10.1080/17483107.2018.1554714
+
 ● Rispin, K., Riseling, K., & Wee, J. (2018). A longitudinal study assessing the maintenance condition of cadres of four types of wheelchairs provided in low-resource areas. Disability and Rehabilitation: Assistive Technology, 13(2). https://doi.org/10.1080/17483107.2017.1299805
+
 ● Toro, M. L., Garcia, Y., Ojeda, A. M., Dausey, D. J., & Pearlman, J. (2012). Quantitative Exploratory Evaluation of the Frequency, Causes and Consequences of Rehabilitation Wheelchair Breakdowns delivered at a Paediatric Clinic in Mexico. Disability, CBR & Inclusive Development, 23(3). https://doi.org/10.5463/dcid.v23i3.167
